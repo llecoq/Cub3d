@@ -75,17 +75,17 @@ cub3d
 ## Quick start
 
 Cub3D with bonus :
-  - Skybox
+  - Skybox 
   - numerous sprites
   - FPS count
   - jump
   - look up and down
-  - (duck) sounds
-  - great taste animations
-  - killer crocs
-  - homemade textures made with photoshop, my personnal right crocs and my swolo buffed arm
-  - dangerously cute penguin
-  - the great penguin tower is watching you !
+  - (duck) sounds 
+  - great taste animations :fire:
+  - killer crocs :crocodile:
+  - homemade textures made with photoshop, my personnal right crocs and my swolo buffed arm :muscle:
+  - dangerously cute penguin :penguin:
+  - the great penguin tower is watching you ! :eyes:
   - doors
   - Borat ?!?
   - Jurassic Park flute
@@ -116,11 +116,22 @@ To run the game, chose the path to a map :
 You can also change some parameters in the map.cub file, like screen resolution or making a map as you wish it.
 
 Inside the game :
+```
 w - move forward
 a - move left
 d - move right
 s - move backward
-
+```
+```
+spacebar - jump
+keyboard arrows - look around 
+left ctrl - get down and be slow
+```
+```
+0 - penguins are gonna try to kill you, give them a taste of your crocs medicine !
+e - that giant penguin-eye-tower is invading your private life, what a stalker... Make it BOOOM !
+alt - open doors
+```
 ## Creators
 
 **llecoq**
