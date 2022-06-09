@@ -7,16 +7,22 @@
   <p align="center">
     My first RayCaster with miniLibX
     <br>
-    This project is inspired by the world-famous eponymous 90’s game, which
-    was the first FPS ever. It will enable you to explore ray-casting.
     <br>
-    Graded "Outstanding" project with full bonus.
+    This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. 
+    <br>
+    It will enable you to explore ray-casting.
+    <br>
+    Graded "Outstanding" project with full bonus, cute penguins, crocs, tasty animations and sounds and full homemade textures.
     <br>
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/en.subject.pdf">English Subject </a>
     |
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/fr.subject.pdf"> Sujet en Francais</a>
+    <br>
+    <br>
   </p>
 </p>
+
+
 
 
 <p align="center">
