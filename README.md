@@ -4,13 +4,13 @@
   </a>
 
   <h2 align="center">cub3D</h2>
-
   <p align="center">
     My first RayCaster with miniLibX
     <br>
     This project is inspired by the world-famous eponymous 90’s game, which
     was the first FPS ever. It will enable you to explore ray-casting.
     <br>
+    Graded "Outstanding" project with full bonus.
     <br>
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/en.subject.pdf">English Subject </a>
     |
@@ -114,30 +114,53 @@ cub3d
 
 ## Quick start
 
-printf with some bonus.
+Cub3D with bonus :
+  - Skybox
+  - numerous sprites
+  - FPS count
+  - jump
+  - look up and down
+  - (duck) sounds
+  - great taste animations
+  - killer crocs
+  - homemade textures made with photoshop, my personnal right crocs and my swolo buffed arm
+  - dangerously cute penguin
+  - the great penguin tower is watching you !
+  - doors
+  - Borat ?!?
+  - Jurassic Park flute
+  - (...)
 
-My first "big" project as I was learning basics of programmation and C.
+My real first big project as I was learning basics of programmation and C. Lot's of fun !
 
 - Clone repo :
     ```
-    git clone https://github.com/llecoq/ft_printf.git
+    git clone https://github.com/llecoq/Cub3d.git
     ```
 - Get inside the root of the directory :
     ```
-    cd ft_printf
-    ```
-- Compile mandatory part
-    ```
-    make
+    cd Cub3d
     ```
 - Compile mandatory + bonus part
     ```
-    make bonus
+    make
     ```
 - Force clean
     ```
     make fclean
     ```
+To run the game, chose the path to a map :
+    ```
+    ./Cub3D assets/maps/map.cub
+    ```
+You can also change some parameters in the map.cub file, like screen resolution or making a map as you wish it.
+
+Inside the game :
+w - move forward
+a - move left
+d - move right
+s - move backward
+
 ## Creators
 
 **llecoq**
