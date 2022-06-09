@@ -40,15 +40,10 @@ cub3d
 │   ├── final grade.png
 │   ├── fr.subject.pdf
 │   ├── maps
-│   │   ├── map.cub
-│   │   └── test.cub
+│   │   └── [... epic maps ...]
 │   ├── sound
-│   │   ├── ded.mp3
-│   │   ├── door.mp3
-│   │   ├── explode.mp3
-│   │   ├── flute.mp3
-│   │   ├── quack.mp3
-│   │   └── velo.mp3
+│   │   ├── [... grate taste sounds ...]
+│   │   └── quack.mp3
 │   └── xpm
 │       ├── [... homemade textures ...]
 │       └── wood.XPM
@@ -56,8 +51,7 @@ cub3d
 ├── includes
 │   ├── cub3d.h
 │   ├── minilibx
-│   │   ├── [...]
-│   │   └── mlx_xpm.c
+│   │   └── [... graphic library ...]
 │   └── struct.h
 ├── libft
 │   ├── [...]
@@ -66,49 +60,15 @@ cub3d
 │   └── libmlx.dylib
 └── srcs
     ├── commands
-    │   ├── actions.c
-    │   ├── control.c
-    │   ├── key_press.c
-    │   └── move.c
+    │   └── [... get your feet moving ...]
     ├── graphic
-    │   ├── bonk.c
-    │   ├── cub3d.c
-    │   ├── data_sprite.c
-    │   ├── draw_image.c
-    │   ├── draw_sprite.c
-    │   ├── draw_texture.c
-    │   ├── find_plan.c
-    │   ├── find_sky.c
-    │   ├── find_sprite.c
-    │   ├── find_valid.c
-    │   ├── get_sprite_plan.c
-    │   ├── life_death.c
-    │   ├── load_skybox.c
-    │   ├── load_sprite.c
-    │   ├── load_texture.c
-    │   ├── load_weapon.c
+    │   ├── [... kill them bad boys ...]
     │   └── ray_casting.c
     ├── main.c
     ├── parsing
-    │   ├── color_fc.c
-    │   ├── error.c
-    │   ├── init_flags.c
-    │   ├── map_check.c
-    │   ├── parsing.c
-    │   ├── store_plan.c
-    │   ├── store_sprite.c
-    │   └── texture.c
+    │   └── [... boring stuff ...]
     └── utils
-        ├── calculs.c
-        ├── clear_lst.c
-        ├── clear_memory.c
-        ├── copy_tab.c
-        ├── frame_rate.c
-        ├── ft_calloc_plan.c
-        ├── inter_map.c
-        ├── list_plan.c
-        ├── save_bmp.c
-        └── utils.c
+        └── [... more boring stuff ...]
 ```
 
 
