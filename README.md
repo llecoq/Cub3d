@@ -36,53 +36,7 @@
 - [What's included](#whats-included)
 - [Creators](#creators)
 
-## What's included
-
-```
-cub3d
-├── Makefile
-├── assets
-│   ├── en.subject.pdf
-│   ├── final grade.png
-│   ├── fr.subject.pdf
-│   ├── maps
-│   │   └── [... epic maps ...]
-│   ├── sound
-│   │   ├── [... grate taste sounds ...]
-│   │   └── quack.mp3
-│   └── xpm
-│       ├── [... homemade textures ...]
-│       └── wood.XPM
-├── in_game_screenshot.bmp
-├── includes
-│   ├── cub3d.h
-│   ├── minilibx
-│   │   └── [... graphic library ...]
-│   └── struct.h
-├── libft
-│   ├── [...]
-│   └── libft.h
-├── mlx
-│   └── libmlx.dylib
-└── srcs
-    ├── commands
-    │   └── [... get your feet moving ...]
-    ├── graphic
-    │   ├── [... kill them bad boys ...]
-    │   └── ray_casting.c
-    ├── main.c
-    ├── parsing
-    │   └── [... boring stuff ...]
-    └── utils
-        └── [... more boring stuff ...]
-```
-
-
 ## Quick start
-
-<p align="center">
-    <img src="https://github.com/llecoq/Cub3d/blob/master/assets/skybox.png" alt="skybox" width=500 height=430>
-  </a>
 
 Cub3D with bonus :
   - Skybox 
@@ -142,6 +96,52 @@ left ctrl - get down and be slow
 e - that giant penguin-eye-tower is invading your private life, what a stalker... Make it BOOOM !
 alt - open doors
 ```
+
+<p align="center">
+    <img src="https://github.com/llecoq/Cub3d/blob/master/assets/skybox.png" alt="skybox" width=500 height=430>
+  </a>
+
+## What's included
+
+```
+cub3d
+├── Makefile
+├── assets
+│   ├── en.subject.pdf
+│   ├── final grade.png
+│   ├── fr.subject.pdf
+│   ├── maps
+│   │   └── [... epic maps ...]
+│   ├── sound
+│   │   ├── [... grate taste sounds ...]
+│   │   └── quack.mp3
+│   └── xpm
+│       ├── [... homemade textures ...]
+│       └── wood.XPM
+├── in_game_screenshot.bmp
+├── includes
+│   ├── cub3d.h
+│   ├── minilibx
+│   │   └── [... graphic library ...]
+│   └── struct.h
+├── libft
+│   ├── [...]
+│   └── libft.h
+├── mlx
+│   └── libmlx.dylib
+└── srcs
+    ├── commands
+    │   └── [... get your feet moving ...]
+    ├── graphic
+    │   ├── [... kill them bad boys ...]
+    │   └── ray_casting.c
+    ├── main.c
+    ├── parsing
+    │   └── [... boring stuff ...]
+    └── utils
+        └── [... more boring stuff ...]
+```
+
 
 <p align="center">
     <img src="https://github.com/llecoq/Cub3d/blob/master/assets/uded.png" alt="u ded" width=500 height=430>
