@@ -113,7 +113,7 @@ cub3d
 │   ├── maps
 │   │   └── [... epic maps ...]
 │   ├── sound
-│   │   ├── [... grate taste sounds ...]
+│   │   ├── [... great taste sounds ...]
 │   │   └── quack.mp3
 │   └── xpm
 │       ├── [... homemade textures ...]
