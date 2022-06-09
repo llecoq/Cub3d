@@ -81,7 +81,7 @@ cub3d
 ## Quick start
 
 <p align="center">
-    <img src="https://github.com/llecoq/Cub3d/blob/master/assets/skybox.png" alt="skybox" width=375 height=300>
+    <img src="https://github.com/llecoq/Cub3d/blob/master/assets/skybox.png" alt="skybox" width=500 height=430>
   </a>
 
 Cub3D with bonus :
@@ -142,6 +142,10 @@ left ctrl - get down and be slow
 e - that giant penguin-eye-tower is invading your private life, what a stalker... Make it BOOOM !
 alt - open doors
 ```
+
+<p align="center">
+    <img src="https://github.com/llecoq/Cub3d/blob/master/assets/uded.png" alt="u ded" width=500 height=430>
+  </a>
 
 ## Creators
 
