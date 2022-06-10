@@ -12,7 +12,8 @@
     <br>
     It will enable you to explore ray-casting.
     <br>
-    Graded "Outstanding" project with full bonus, cute penguins, crocs, tasty animations and sounds and full homemade textures.
+    <br>
+    Graded "Outstanding" project with bonus, dangerously cute penguins, crocs, tasty animations and sounds, complex gameplay and homemade textures.
     <br>
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/en.subject.pdf">English Subject </a>
     |
@@ -38,6 +39,8 @@
 
 ## Quick start
 
+My first big project as I was learning basics of programmation and C. Lot's of fun !
+
 Cub3D with bonus :
   - Skybox 
   - numerous sprites
@@ -55,8 +58,6 @@ Cub3D with bonus :
   - Jurassic Park flute
   - (...)
 
-My real first big project as I was learning basics of programmation and C. Lot's of fun !
-
 - Clone repo :
     ```
     git clone https://github.com/llecoq/Cub3d.git
@@ -73,11 +74,23 @@ My real first big project as I was learning basics of programmation and C. Lot's
     ```
     make fclean
     ```
-To run the game, chose the path to a map :
+To run the game, choose the path to a map :
     ```
     ./Cub3D assets/maps/map.cub
     ```
-You can also change some parameters in the map.cub file, like screen resolution or making a map as you wish it.
+
+Tweak the parameters to make your own personalized map:
+```
+C - celling color in RGB
+F - floor color in RGB
+R - screen resolution in pixels
+SO - south wall texture path
+WE - west wall texture path
+EA - east wall texture path
+NO - north wall texture path
+S - sprite texture path
+```
+
 
 Inside the game :
 ```
