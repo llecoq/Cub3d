@@ -20,7 +20,7 @@
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/fr.subject.pdf"> Sujet en Francais</a>
     <br>
     <br>
-  :star::star::star::star::star: "Masterfull ! Storytelling at its finest and a breathtaking end." - bestgame.com
+  :star::star::star::star::star: "Masterfull ! Storytelling at its finest with a breathtaking end." - bestgame.com
   </p>
 </p>
 
