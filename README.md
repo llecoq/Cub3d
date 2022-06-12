@@ -112,6 +112,9 @@ left ctrl - get down and be slow
 e - that giant penguin-eye-tower is invading your private life, what a stalker... Make it BOOOM !
 alt - open doors
 ```
+```
+print scr - capture an in-game bmp screenshot
+```
 
 <p align="center">
     <img src="https://github.com/llecoq/Cub3d/blob/master/assets/skybox.png" alt="skybox" width=500 height=430>
