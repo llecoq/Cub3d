@@ -13,13 +13,14 @@
     It will enable you to explore ray-casting.
     <br>
     <br>
-    Graded "Outstanding" project with bonus, dangerously cute penguins, crocs, tasty animations and sounds, complex gameplay and homemade textures.
+    Graded "Outstanding" project with bonus, multithreading, dangerously cute penguins, crocs, tasty animations and sounds, complex gameplay and homemade textures.
     <br>
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/en.subject.pdf">English Subject </a>
     |
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/fr.subject.pdf"> Sujet en Francais</a>
     <br>
     <br>
+  :star::star::star::star::star: "Masterfull ! Storytelling at its finest and a breathtaking end." - bestgame.com
   </p>
 </p>
 
@@ -42,7 +43,8 @@
 My first big project as I was learning basics of programmation and C. Lot's of fun !
 
 Cub3D with bonus :
-  - Skybox 
+  - skybox 
+  - multithreading
   - numerous sprites
   - FPS count
   - jump
