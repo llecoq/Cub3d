@@ -15,12 +15,13 @@
     <br>
     Graded "Outstanding" project with bonus, multithreading, dangerously cute penguins, crocs, tasty animations and sounds, complex gameplay and homemade textures.
     <br>
+    <br>
+    :star::star::star::star::star: "Masterfull ! Storytelling at its finest with a breathtaking end." - bestgame.com
+    <br>
+    <br>
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/en.subject.pdf">English Subject </a>
     |
     <a href="https://github.com/llecoq/Cub3d/blob/master/assets/fr.subject.pdf"> Sujet en Francais</a>
-    <br>
-    <br>
-  :star::star::star::star::star: "Masterfull ! Storytelling at its finest with a breathtaking end." - bestgame.com
   </p>
 </p>
 
