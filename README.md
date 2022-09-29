@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://42lyon.fr/">
-    <img src="https://github.com/llecoq/Cub3d/blob/master/assets/final%20grade.png" alt="cub3D" width=200 height=170>
+    <img src="./assets/final_grade.png" alt="cub3D" width=200 height=170>
   </a>
 
   <h2 align="center">cub3D</h2>
@@ -19,9 +19,9 @@
     :star::star::star::star::star: "Masterfull ! Storytelling at its finest with a breathtaking end." - bestgame.com
     <br>
     <br>
-    <a href="https://github.com/llecoq/Cub3d/blob/master/assets/en.subject.pdf">English Subject </a>
+    <a href="./assets/en.subject.pdf">English Subject </a>
     |
-    <a href="https://github.com/llecoq/Cub3d/blob/master/assets/fr.subject.pdf"> Sujet en Francais</a>
+    <a href="./assets/fr.subject.pdf"> Sujet en Francais</a>
   </p>
 </p>
 
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/llecoq/Cub3d/blob/master/in_game_screenshot.bmp" alt="cub3D" width=750 height=600>
+    <img src="./in_game_screenshot.bmp" alt="cub3D" width=750 height=600>
   </a>
 
 
@@ -117,7 +117,7 @@ print scr - capture an in-game bmp screenshot
 ```
 
 <p align="center">
-    <img src="https://github.com/llecoq/Cub3d/blob/master/assets/skybox.png" alt="skybox" width=500 height=430>
+    <img src="./assets/skybox.png" alt="skybox" width=500 height=430>
   </a>
 
 ## What's included
@@ -163,7 +163,7 @@ cub3d
 
 
 <p align="center">
-    <img src="https://github.com/llecoq/Cub3d/blob/master/assets/uded.png" alt="u ded" width=500 height=430>
+    <img src="./assets/uded.png" alt="u ded" width=500 height=430>
   </a>
 
 ## Creators
