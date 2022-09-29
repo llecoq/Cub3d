@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://42lyon.fr/">
-    <img src="./assets/final_grade.png" alt="cub3D" width=200 height=170>
+    <img src="./assets/final_grade.png" alt="cub3D" width=200>
   </a>
 
   <h2 align="center">cub3D</h2>
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-    <img src="./in_game_screenshot.bmp" alt="cub3D" width=750 height=600>
+    <img src="./in_game_screenshot.bmp" alt="cub3D" width=750>
   </a>
 
 
@@ -117,7 +117,7 @@ print scr - capture an in-game bmp screenshot
 ```
 
 <p align="center">
-    <img src="./assets/skybox.png" alt="skybox" width=500 height=430>
+    <img src="./assets/skybox.png" alt="skybox" width=500>
   </a>
 
 ## What's included
@@ -163,7 +163,7 @@ cub3d
 
 
 <p align="center">
-    <img src="./assets/uded.png" alt="u ded" width=500 height=430>
+    <img src="./assets/uded.png" alt="u ded" width=500>
   </a>
 
 ## Creators
